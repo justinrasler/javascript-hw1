@@ -190,7 +190,3 @@ console.log('Exercise 15 Result: ',total)
 
 
 
-git init
-git commit -m "first commit"
-git remote add origin https://github.com/justinrasler/javascript-hw1.git
-git push origin master
