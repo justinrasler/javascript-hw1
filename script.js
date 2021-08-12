@@ -189,8 +189,3 @@ for (total of numArrays){
 console.log('Exercise 15 Result: ',total)
 
 
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://git.generalassemb.ly/justinrasler/js_hw1.git
-git push origin master
